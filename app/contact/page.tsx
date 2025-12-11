@@ -41,10 +41,10 @@ export default function ContactPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            <h1 className="font-poppins font-bold text-4xl md:text-5xl mb-4">
+            <h1 className="font-poppins text-brand-purple font-bold text-4xl md:text-5xl mb-4">
               Get In Touch
             </h1>
-            <p className="text-xl text-white/90">
+            <p className="text-xl text-brand-purple text-white/90">
               Have questions? We're here to help you start your journey
             </p>
           </motion.div>
